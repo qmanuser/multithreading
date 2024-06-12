@@ -1,0 +1,3 @@
+A program is an executable file which consists
+ of a set of instructions to perform some
+ task and is usually stored on the disk of your computer

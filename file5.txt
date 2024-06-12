@@ -1,0 +1,7 @@
+String
+Char
+Text
+Integer
+Float
+Point
+Numbers

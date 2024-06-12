@@ -1,0 +1,3 @@
+A process is what we call a program that has been loaded into memory
+long with all the resources it needs
+to operate. It has its own memory space
